@@ -6,4 +6,4 @@ Add code on You website or project what ever.
 
 output.....
 
-https://kutty-anonymous.github.io/Smock_animationanimation/
+https://kutty-anonymous.github.io/Smock_animation/
