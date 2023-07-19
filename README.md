@@ -1,4 +1,4 @@
-# Smock_animationanimation
+# Smock_animation
 
 This is Smocking animation for text.
 
